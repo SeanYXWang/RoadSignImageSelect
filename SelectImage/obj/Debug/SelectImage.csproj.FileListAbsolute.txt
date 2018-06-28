@@ -1,0 +1,9 @@
+D:\SelectImage\SelectImage\bin\Debug\SelectImage.exe.config
+D:\SelectImage\SelectImage\bin\Debug\SelectImage.exe
+D:\SelectImage\SelectImage\bin\Debug\SelectImage.pdb
+D:\SelectImage\SelectImage\obj\Debug\SelectImage.csprojResolveAssemblyReference.cache
+D:\SelectImage\SelectImage\obj\Debug\SelectImage.Form1.resources
+D:\SelectImage\SelectImage\obj\Debug\SelectImage.Properties.Resources.resources
+D:\SelectImage\SelectImage\obj\Debug\SelectImage.csproj.GenerateResource.Cache
+D:\SelectImage\SelectImage\obj\Debug\SelectImage.exe
+D:\SelectImage\SelectImage\obj\Debug\SelectImage.pdb
